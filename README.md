@@ -22,7 +22,7 @@
 
 ## About Me
 
-- **Education**: 3rd-year Software Development undergraduate at Dundalk Institute of Technology (NFQ Level 8), maintaining an Upper Second-Class Honours (2.1) trajectory. Strong academic foundation backed by 453 CAO points with an H2 in Leaving Certificate Computer Science.
+- **Education**: 3rd-year Software Development undergraduate at Dundalk Institute of Technology (NFQ Level 8), maintaining an Upper Second-Class Honours (2.1) trajectory.
 - **International Technical Experience**: Selected for three Erasmus+ Blended Intensive Programmes (BIP) across Portugal and Belgium, serving as Technical Lead for cross-border software teams delivering full-stack web and AI-assisted simulations.
 - **Placement Availability**: Actively seeking a 30-credit Software Engineering Work Placement starting 2026 to apply modern software engineering principles, Scrum workflows, and systems programming in a production environment.
 - **Engineering Breadth**: Core specialization across Java enterprise patterns, full-stack C++, edge IoT hardware architectures (Raspberry Pi 5), and modern JavaScript/React web services.
