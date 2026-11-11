@@ -83,8 +83,8 @@
   <a href="https://github.com/Denisgri109/AntiBurnout">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Denisgri109&repo=AntiBurnout&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Roman0Korol/EnergyGameBIP">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=EnergyGameBIP&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Roman0Korol/Sustainable_Appliances">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=Sustainable_Appliances&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -101,8 +101,8 @@
   <a href="https://github.com/Roman0Korol/Database-Stage-3">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=Database-Stage-3&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Roman0Korol/Java-Class-Project">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=Java-Class-Project&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Denisgri109/OOPCA1">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Denisgri109&repo=OOPCA1&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -116,9 +116,9 @@
       <p><code>IoT</code> • <code>Raspberry Pi</code> • <code>FastAPI</code> • <code>Python</code> • <code>WebSockets</code> • <code>SQLite</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Roman0Korol/EnergyGameBIP">Energy Atlas | Erasmus+ BIP Portugal</a></h3>
-      <p>Technical Lead for an environmental grid-balancing simulation. Built a browser-based management game in vanilla JS, HTML, and Tailwind CSS with a Node.js/Express backend integrating Hugging Face LLMs as dynamic gameplay advisors.</p>
-      <p><code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>Hugging Face LLM</code> • <code>Tailwind</code></p>
+      <h3><a href="https://github.com/Roman0Korol/Sustainable_Appliances">Sustainable Appliances | Full-Stack Web</a></h3>
+      <p>Full-stack web application designed for tracking, managing, and calculating energy efficiency and sustainability metrics for household appliances, built with modular client-server architecture.</p>
+      <p><code>JavaScript</code> • <code>Node.js</code> • <code>Full-Stack</code> • <code>REST API</code> • <code>Sustainability</code></p>
     </td>
   </tr>
   <tr>
@@ -140,9 +140,9 @@
       <p><code>Java</code> • <code>SQL</code> • <code>Database Normalization</code> • <code>Relational Schema</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Roman0Korol/Java-Class-Project">Java OOP Medical Architecture</a></h3>
-      <p>Object-oriented systems and software design using modern Java, focusing on test seams, separation of concerns, domain modeling, and robust user/allergen data management.</p>
-      <p><code>Java</code> • <code>OOP Design</code> • <code>File I/O</code> • <code>Domain Modeling</code></p>
+      <h3><a href="https://github.com/Denisgri109/OOPCA1">OOP CA1 | Java Enterprise System</a></h3>
+      <p>Object-Oriented Programming Continuous Assessment application built with Java and Maven. Features structured package architecture, database persistence layer, and unit test suites.</p>
+      <p><code>Java</code> • <code>Maven</code> • <code>OOP</code> • <code>Database</code> • <code>Architecture</code></p>
     </td>
   </tr>
 </table>
