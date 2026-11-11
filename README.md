@@ -77,43 +77,72 @@
 
 ---
 
-## Featured Projects & International Experience
+## Pinned & Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/Denisgri109/AntiBurnout">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Denisgri109&repo=AntiBurnout&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Roman0Korol/EnergyGameBIP">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=EnergyGameBIP&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/Denisgri109/CA3CPP">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Denisgri109&repo=CA3CPP&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Roman0Korol/AES-Encryption">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=AES-Encryption&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/Roman0Korol/Database-Stage-3">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=Database-Stage-3&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Roman0Korol/Java-Class-Project">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=Java-Class-Project&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>AntiBurnout / Smart Mirror (IoT)</h3>
+      <h3><a href="https://github.com/Denisgri109/AntiBurnout">AntiBurnout / Smart Mirror (IoT)</a></h3>
       <p>Universal Design IoT edge architecture using Raspberry Pi 5, processing analog/digital biometric telemetry via MCP3008 SPI ADC and PIR sensors. Backed by an asynchronous FastAPI/WebSocket streaming server and SQLite persistence.</p>
       <p><code>IoT</code> • <code>Raspberry Pi</code> • <code>FastAPI</code> • <code>Python</code> • <code>WebSockets</code> • <code>SQLite</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Energy Atlas | Erasmus+ BIP Portugal (2026)</h3>
+      <h3><a href="https://github.com/Roman0Korol/EnergyGameBIP">Energy Atlas | Erasmus+ BIP Portugal</a></h3>
       <p>Technical Lead for an environmental grid-balancing simulation. Built a browser-based management game in vanilla JS, HTML, and Tailwind CSS with a Node.js/Express backend integrating Hugging Face LLMs as dynamic gameplay advisors.</p>
       <p><code>React</code> • <code>Node.js</code> • <code>Express</code> • <code>Hugging Face LLM</code> • <code>Tailwind</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>2Seek Accessibility Platform | Erasmus+ BIP Belgium (2025)</h3>
-      <p>React application engineered to enhance digital accessibility for an aging demographic discovering local cultural and community activities. Co-managed architecture planning and pitched the solution to a global panel.</p>
-      <p><code>React</code> • <code>UX Design</code> • <code>Accessibility</code> • <code>International Team</code></p>
+      <h3><a href="https://github.com/Denisgri109/CA3CPP">Full-Stack C++ & System Architecture</a></h3>
+      <p>Object-oriented board simulation in modern C++, emphasizing dynamic polymorphism, abstract base class hierarchies (<code>Bug</code>, <code>Crawler</code>, <code>Spider</code>), pointer mechanics, and memory management.</p>
+      <p><code>C++</code> • <code>OOP</code> • <code>CMake</code> • <code>Polymorphism</code> • <code>Memory Management</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Full-Stack C++ & System Architecture</h3>
-      <p>System-level programming emphasizing memory layout, dynamic allocation, pointer mechanics, inheritance hierarchies, and computational efficiency for core algorithms and data structures.</p>
-      <p><code>C++</code> • <code>OOP</code> • <code>Memory Management</code> • <code>Data Structures</code></p>
+      <h3><a href="https://github.com/Roman0Korol/AES-Encryption">AES-Encryption & Security</a></h3>
+      <p>Cryptographic cipher research and implementation in Java exploring the Advanced Encryption Standard, symmetric block operations, and mathematical key schedule matrices.</p>
+      <p><code>Cryptography</code> • <code>Security</code> • <code>Java</code> • <code>Algorithms</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>SoundPlay Audio Prototype | Erasmus+ BIP Portugal (2025)</h3>
-      <p>Music-guessing web application inspired by "Heardle" mechanics. Implemented core client-side gameplay loops, audio stream parsing, and visual feedback states in JavaScript.</p>
-      <p><code>JavaScript</code> • <code>Audio API</code> • <code>Game Logic</code></p>
+      <h3><a href="https://github.com/Roman0Korol/Database-Stage-3">Database-Stage-3 | Relational Systems</a></h3>
+      <p>Relational database management project featuring normalized 3NF SQL schemas, relational tables, constraints, Java database connectivity, and design documentation.</p>
+      <p><code>Java</code> • <code>SQL</code> • <code>Database Normalization</code> • <code>Relational Schema</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>AES-Encryption & Security</h3>
-      <p>Cryptographic cipher research and implementation exploring the Advanced Encryption Standard, symmetric block operations, and mathematical key schedules.</p>
-      <p><code>Cryptography</code> • <code>Security</code> • <code>Java</code> • <code>Algorithms</code></p>
+      <h3><a href="https://github.com/Roman0Korol/Java-Class-Project">Java OOP Medical Architecture</a></h3>
+      <p>Object-oriented systems and software design using modern Java, focusing on test seams, separation of concerns, domain modeling, and robust user/allergen data management.</p>
+      <p><code>Java</code> • <code>OOP Design</code> • <code>File I/O</code> • <code>Domain Modeling</code></p>
     </td>
   </tr>
 </table>
