@@ -5,10 +5,10 @@
 [![GitHub Education](https://img.shields.io/badge/GitHub_Education-Student_Pack-2088FF?style=flat-square&logo=github&logoColor=white)](https://education.github.com/)
 [![DkIT](https://img.shields.io/badge/DkIT-BSc_(Hons)_Computing-005A9C?style=flat-square)](https://www.dkit.ie/)
 [![Erasmus+ Scholar](https://img.shields.io/badge/Erasmus+-3x_International_Scholar-003399?style=flat-square&logo=europeanunion&logoColor=white)](https://erasmus-plus.ec.europa.eu/)
-[![Placement Seeking](https://img.shields.io/badge/Placement_2026-Available-2ea44f?style=flat-square)](mailto:romankorolovich@live.ie)
+[![Placement Seeking](https://img.shields.io/badge/Placement_2027-Available-2ea44f?style=flat-square)](mailto:romankorolovich@live.ie)
 
 <a href="https://github.com/Roman0Korol">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=530&lines=Software+Development+Student+%40+DkIT;Java%2C+Full-Stack+C%2B%2B+%26+IoT+Developer;3x+Erasmus%2B+Scholar+(Portugal+%26+Belgium);React%2C+Node.js+%26+FastAPI+Engineer;Available+for+Industry+Placement+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=530&lines=Software+Development+Student+%40+DkIT;Java%2C+Full-Stack+C%2B%2B+%26+IoT+Developer;3x+Erasmus%2B+Scholar+(Portugal+%26+Belgium);React%2C+Node.js+%26+FastAPI+Engineer;Available+for+Industry+Placement+2027" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 - **Education**: 3rd-year Software Development undergraduate at Dundalk Institute of Technology (NFQ Level 8), maintaining an Upper Second-Class Honours (2.1) trajectory.
 - **International Technical Experience**: Selected for three Erasmus+ Blended Intensive Programmes (BIP) across Portugal and Belgium, serving as Technical Lead for cross-border software teams delivering full-stack web and AI-assisted simulations.
-- **Placement Availability**: Actively seeking a 30-credit Software Engineering Work Placement starting 2026 to apply modern software engineering principles, Scrum workflows, and systems programming in a production environment.
+- **Placement Availability**: Actively seeking a 30-credit Software Engineering Work Placement starting 2027 to apply modern software engineering principles, Scrum workflows, and systems programming in a production environment.
 - **Engineering Breadth**: Core specialization across Java enterprise patterns, full-stack C++, edge IoT hardware architectures (Raspberry Pi 5), and modern JavaScript/React web services.
 - **Quality & Rigour**: Dedicated to disciplined software testing with JUnit, strict type safety, defensive boundary validation, and agile Scrum delivery.
 
