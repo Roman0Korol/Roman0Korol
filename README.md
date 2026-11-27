@@ -79,33 +79,6 @@
 
 ## Pinned & Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/Denisgri109/AntiBurnout">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Denisgri109&repo=AntiBurnout&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Roman0Korol/Sustainable_Appliances">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=Sustainable_Appliances&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/Denisgri109/CA3CPP">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Denisgri109&repo=CA3CPP&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Roman0Korol/AES-Encryption">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=AES-Encryption&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/Roman0Korol/Database-Stage-3">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Roman0Korol&repo=Database-Stage-3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Denisgri109/OOPCA1">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Denisgri109&repo=OOPCA1&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
 <br>
 
 <table>
